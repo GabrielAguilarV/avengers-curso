@@ -4,3 +4,5 @@
 * Red Skull
 * Doctor Herrera
 * muchos villanos
+*darseai
+* don
